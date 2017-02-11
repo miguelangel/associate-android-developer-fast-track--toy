@@ -15,5 +15,8 @@
 -->
 <resources>
     <string name="app_name">RecyclerView</string>
-    <!--TODO (1) Add a String for the title of the menu item, "Reset"-->
+    <!--DONE (1) Add a String for the title of the menu item, "Reset".
+                 Notice the name has been changed to "Refresh"
+    -->
+    <string name="refresh">Refresh</string>
 </resources>
